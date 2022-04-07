@@ -1,4 +1,4 @@
-# Install script for directory: /home/inspired/T_lb3/solver_application
+# Install script for directory: /home/inspired/T_lb4/Timp_4/solver_application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/inspired/T_lb3/solver_application/_build/formatter_ex/cmake_install.cmake")
+  include("/home/inspired/T_lb4/Timp_4/solver_application/_build/formatter_ex/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/inspired/T_lb3/solver_application/_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/inspired/T_lb4/Timp_4/solver_application/_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

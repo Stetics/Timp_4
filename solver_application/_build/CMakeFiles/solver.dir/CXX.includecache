@@ -8,17 +8,17 @@
 
 ../../solver_lib/solver.h
 
-/home/inspired/T_lb3/formatter_ex_lib/formatter_ex.h
+/home/inspired/T_lb4/Timp_4/formatter_ex_lib/formatter_ex.h
 string
 -
 iostream
 -
 
-/home/inspired/T_lb3/solver_application/equation.cpp
+/home/inspired/T_lb4/Timp_4/solver_application/equation.cpp
 iostream
 -
 formatter_ex.h
-/home/inspired/T_lb3/solver_application/formatter_ex.h
+/home/inspired/T_lb4/Timp_4/solver_application/formatter_ex.h
 solver.h
-/home/inspired/T_lb3/solver_application/solver.h
+/home/inspired/T_lb4/Timp_4/solver_application/solver.h
 

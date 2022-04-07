@@ -1,4 +1,4 @@
-# Install script for directory: /home/inspired/T_lb3/formatter_lib
+# Install script for directory: /home/inspired/T_lb4/Timp_4/formatter_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

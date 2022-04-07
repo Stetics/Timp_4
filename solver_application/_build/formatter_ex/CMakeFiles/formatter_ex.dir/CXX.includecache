@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/inspired/T_lb3/formatter_ex_lib/formatter_ex.cpp
+/home/inspired/T_lb4/Timp_4/formatter_ex_lib/formatter_ex.cpp
 formatter_ex.h
-/home/inspired/T_lb3/formatter_ex_lib/formatter_ex.h
+/home/inspired/T_lb4/Timp_4/formatter_ex_lib/formatter_ex.h
 formatter.h
-/home/inspired/T_lb3/formatter_ex_lib/formatter.h
+/home/inspired/T_lb4/Timp_4/formatter_ex_lib/formatter.h
 
-/home/inspired/T_lb3/formatter_ex_lib/formatter_ex.h
+/home/inspired/T_lb4/Timp_4/formatter_ex_lib/formatter_ex.h
 string
 -
 iostream
 -
 
-/home/inspired/T_lb3/formatter_lib/formatter.h
+/home/inspired/T_lb4/Timp_4/formatter_lib/formatter.h
 string
 -
 

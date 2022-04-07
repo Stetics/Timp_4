@@ -1,4 +1,4 @@
-# Install script for directory: /home/inspired/T_lb3/formatter_ex_lib
+# Install script for directory: /home/inspired/T_lb4/Timp_4/formatter_ex_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/inspired/T_lb3/solver_application/_build/formatter_ex/formatter_lib/cmake_install.cmake")
+  include("/home/inspired/T_lb4/Timp_4/solver_application/_build/formatter_ex/formatter_lib/cmake_install.cmake")
 
 endif()
 
